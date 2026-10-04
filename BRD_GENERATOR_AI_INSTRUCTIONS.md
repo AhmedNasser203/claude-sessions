@@ -1,4 +1,6 @@
-# BRD Generator: Instructions for the Building AI
+# توثيق (Tawthiq): Instructions for the Building AI
+
+**Brand**: the app is called **توثيق** (English: *Tawthiq*; meaning "documentation"). Use this name in the UI, exported DOCX/PDF footers, and every prompt. Do not use the former working title "مولد المتطلبات". Keep the name in Arabic in Arabic UI text and `Tawthiq` in Latin-script contexts.
 
 Derived from two sample BRDs:
 - **Doc A**: Product Management service (إدارة المنتجات), v0.5 — a CST platform ("متصل" / "منصة تك").
